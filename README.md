@@ -36,7 +36,7 @@ TAGS:
 - PUT Update tag by ID
 - DEL Delete tag by ID
 
-If you would like to watch a video on how to use <a href=''>CLICK TO WATCH VIDEO</a>
+If you would like to watch a video on how to use <a href='https://drive.google.com/file/d/1OjiDtUl9illnyZCxhmG0YobUrVmsRFtl/view?usp=sharing'>CLICK TO WATCH VIDEO</a>
 
 ## Contact 
 If you would like to ask any questions you can find information on how to contact my on my  <a href="https://github.com/skipsterling">Github</a>
