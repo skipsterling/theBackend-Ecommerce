@@ -1,7 +1,7 @@
 # theBackend-Ecommerce
 
 ## Description
-This app was created to make ecommerce easy. So i've created a back end e-commerce website that uses the latest technologies
+This app was created to make ecommerce easy. So i've created a back end e-commerce website that uses the latest technologies, nodejs, mysql, js.
 Create, Add, Update and Delete products using this app. 
 
 ## Installation
