@@ -42,4 +42,4 @@ This project was not a deployable application as asked by our teachers but if yo
 MIT
 
 ## Contact 
-If you would like to ask any questions you can find information on how to contact my on my  <a href="https://github.com/skipsterling">Github</a>
+If you would like to ask any questions you can find information on how to contact my on my  <a href="https://github.com/skipsterling">Github</a> or via email tomsterlingjames@outlook.com.au
