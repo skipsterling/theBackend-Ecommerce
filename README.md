@@ -38,5 +38,8 @@ TAGS:
 
 This project was not a deployable application as asked by our teachers but if you would like to watch a video on how to use <a href='https://drive.google.com/file/d/1OjiDtUl9illnyZCxhmG0YobUrVmsRFtl/view?usp=sharing'>CLICK TO WATCH VIDEO</a>
 
+## License 
+MIT
+
 ## Contact 
 If you would like to ask any questions you can find information on how to contact my on my  <a href="https://github.com/skipsterling">Github</a>
