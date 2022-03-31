@@ -1,8 +1,11 @@
 # theBackend-Ecommerce
 
 ## Description
-This app was created to make ecommerce easy. So i've created a back end e-commerce website that uses the latest technologies, nodejs, mysql, js.
+This app was created to make ecommerce easy. So i've created a back end e-commerce website that uses the latest technologies, 
 Create, Add, Update and Delete products using this app. 
+
+## Technologies Used
+js, nodejs, mysql.
 
 ## Installation
 To use this you will need to install the dependancies by running npm install on your cli.
@@ -36,7 +39,7 @@ TAGS:
 - PUT Update tag by ID
 - DEL Delete tag by ID
 
-This project was not a deployable application as asked by our teachers but if you would like to watch a video on how to use <a href='https://drive.google.com/file/d/1OjiDtUl9illnyZCxhmG0YobUrVmsRFtl/view?usp=sharing'>CLICK TO WATCH VIDEO</a>
+This project was not a deployable application as mentioned by our teachers but if you would like to watch a video on how to use <a href='https://drive.google.com/file/d/1OjiDtUl9illnyZCxhmG0YobUrVmsRFtl/view?usp=sharing'>CLICK TO WATCH VIDEO</a>
 
 ## License 
 MIT
